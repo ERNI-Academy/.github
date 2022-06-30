@@ -19,6 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [ERNI&#39;s Career Path: Transition From Developer To Scrum Master](https://www.youtube.com/watch?v=qfZHRd7QoWY)
+- [La tiranía del dato en equipos ágiles](https://www.youtube.com/watch?v=1Uk-Le2Xo4g)
+- [Micro-frontends: El fin de las aplicaciones monolíticas](https://www.youtube.com/watch?v=3t27sQ5Nafg)
+- [IP v4 Basics](https://www.youtube.com/watch?v=pg4LE8opuKc)
+- [Un Scrum Master, en la práctica, ¿qué hace realmente en su día a día?](https://www.youtube.com/watch?v=1QhHD0lZS3M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)).
