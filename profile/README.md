@@ -1,6 +1,6 @@
 # ERNI Academy
 
-[![ERNI Academy Social Banner](../assets/erni-social-banner-github.png)](https://betterask.erni)
+[![ERNI Academy Social Banner](/assets/erni-social-banner-github.png)](https://betterask.erni)
 
 Hello 👋 ! We are ERNIans, developers and engineers building complex and smart solutions. Our main goal is to contribute and share our knowledge to the community.
 
