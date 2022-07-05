@@ -21,7 +21,10 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)).
+Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
+
+<!-- EVENTBRITE-EVENTS-LIST:START -->
+<!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
 
