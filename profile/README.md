@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [ERNI Academy is in GitHub](https://www.youtube.com/watch?v=FW7tr04ih5g)
 - [What is it like to work at ERNI as a QA Principal?](https://www.youtube.com/watch?v=gKPaj0aQVBU)
 - [¿Qué hay detrás del amor y del odio a la agilidad?](https://www.youtube.com/watch?v=vGMLSY9gkQY)
 - [Dentro del TOP 10 OWASP](https://www.youtube.com/watch?v=nKeGe7jIV4g)
 - [ERNI SUMMER PARTY 2022](https://www.youtube.com/watch?v=IXNrfIfhiJk)
-- [ERNI&#39;s Career Path: Transition From Developer To Scrum Master](https://www.youtube.com/watch?v=qfZHRd7QoWY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
