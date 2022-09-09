@@ -32,8 +32,8 @@ Also don't forget to check our next events ([remote and in-person](https://www.e
 - [Automation framework for pentesters Kick-off session](https://www.eventbrite.es/e/automation-framework-for-pentesters-kick-off-session-registration-388029204797)
 - [Terraform Templates Kick-off session](https://www.eventbrite.es/e/terraform-templates-kick-off-session-registration-388023868837)
 - [Mobile Boilerplate Kick-off session](https://www.eventbrite.es/e/mobile-boilerplate-kick-off-session-registration-388020348307)
+- [¿Cómo hablar con ejecutivos de agilidad?](https://www.eventbrite.es/e/registro-como-hablar-con-ejecutivos-de-agilidad-416574564737)
 - [Cloud Storage Abstraction Kick-off session](https://www.eventbrite.es/e/cloud-storage-abstraction-kick-off-session-registration-388013838837)
-- [Automation testware Kick-off session](https://www.eventbrite.es/e/automation-testware-kick-off-session-registration-383354271947)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
