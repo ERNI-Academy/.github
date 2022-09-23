@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [¿Cómo hablar con ejecutivos de agilidad?](https://www.youtube.com/watch?v=Led_VxAlSdM)
 - [Automation testware repository in GitHub](https://www.youtube.com/watch?v=7Sjcy5hh9rg)
 - [ERNI Academy is in GitHub](https://www.youtube.com/watch?v=FW7tr04ih5g)
 - [What is it like to work at ERNI as a QA Principal?](https://www.youtube.com/watch?v=gKPaj0aQVBU)
 - [¿Qué hay detrás del amor y del odio a la agilidad?](https://www.youtube.com/watch?v=vGMLSY9gkQY)
-- [Dentro del TOP 10 OWASP](https://www.youtube.com/watch?v=nKeGe7jIV4g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
