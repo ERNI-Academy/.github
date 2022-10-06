@@ -29,11 +29,11 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
+- [Las posibilidades del CSS](https://www.eventbrite.es/e/registro-las-posibilidades-del-css-433531613727)
+- [Intro to roles in Data](https://www.eventbrite.es/e/intro-to-roles-in-data-registration-433594562007)
 - [Escáner de vulnerabilidades para Azure](https://www.eventbrite.es/e/registro-escaner-de-vulnerabilidades-para-azure-429025395507)
 - [Cloud Storage Abstraction Kick-off session](https://www.eventbrite.es/e/cloud-storage-abstraction-kick-off-session-registration-388013838837)
 - [Automation framework for pentesters Kick-off session](https://www.eventbrite.es/e/automation-framework-for-pentesters-kick-off-session-registration-388029204797)
-- [Terraform Templates Kick-off session](https://www.eventbrite.es/e/terraform-templates-kick-off-session-registration-388023868837)
-- [Mobile Boilerplate Kick-off session](https://www.eventbrite.es/e/mobile-boilerplate-kick-off-session-registration-388020348307)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
