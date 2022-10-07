@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Cloud storage abstraction](https://www.youtube.com/watch?v=r_S_YrW2bPY)
 - [Terraform Templates](https://www.youtube.com/watch?v=3TnmFST9Bdg)
 - [Mobile boilerplate](https://www.youtube.com/watch?v=vDqvaRetEKo)
 - [¿Cómo hablar con ejecutivos de agilidad?](https://www.youtube.com/watch?v=Led_VxAlSdM)
 - [Automation testware repository in GitHub](https://www.youtube.com/watch?v=7Sjcy5hh9rg)
-- [ERNI Academy is in GitHub](https://www.youtube.com/watch?v=FW7tr04ih5g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
