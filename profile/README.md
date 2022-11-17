@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Minimal APIs en  NET 7](https://www.youtube.com/watch?v=xerNeejlpFE)
 - [Las posibilidades del CSS](https://www.youtube.com/watch?v=ACEQcUH0zwQ)
 - [Intro to roles in Data](https://www.youtube.com/watch?v=yopChCrZTAw)
 - [Cloud storage abstraction](https://www.youtube.com/watch?v=r_S_YrW2bPY)
 - [Terraform Templates](https://www.youtube.com/watch?v=3TnmFST9Bdg)
-- [Mobile boilerplate](https://www.youtube.com/watch?v=vDqvaRetEKo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
