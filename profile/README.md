@@ -30,10 +30,10 @@ Also don't forget to check our next events ([remote and in-person](https://www.e
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
 - [Automation framework for pentesters Kick-off session](https://www.eventbrite.es/e/automation-framework-for-pentesters-kick-off-session-registration-478162566107)
+- [La Agilidad en una de las 100 tecnológicas más grandes del mundo](https://www.eventbrite.es/e/registro-la-agilidad-en-una-de-las-100-tecnologicas-mas-grandes-del-mundo-484281016557)
 - [Empoderar a los equipos, ¿es siempre bueno?](https://www.eventbrite.es/e/registro-empoderar-a-los-equipos-es-siempre-bueno-453858431787)
 - [Minimal APIs en .NET 7](https://www.eventbrite.es/e/registro-minimal-apis-en-net-7-440918528187)
 - [How healthcare market leaders are driving innovation](https://www.eventbrite.es/e/how-healthcare-market-leaders-are-driving-innovation-registration-444536399337)
-- [Las posibilidades del CSS](https://www.eventbrite.es/e/registro-las-posibilidades-del-css-433531613727)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
