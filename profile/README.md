@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [ERNI Spain Christmas dinner](https://www.youtube.com/watch?v=2FJTij-K8Ak)
 - [ReplayCAS2022 - Desescalando tu organización con OKRs](https://www.youtube.com/watch?v=bPId8wVnOe4)
 - [How healthcare market leaders are driving innovation](https://www.youtube.com/watch?v=iElmPKVHUuA)
 - [Empoderar a los equipos, ¿es siempre bueno?](https://www.youtube.com/watch?v=OuKpsr4qa8U)
 - [Minimal APIs en  NET 7](https://www.youtube.com/watch?v=xerNeejlpFE)
-- [Las posibilidades del CSS](https://www.youtube.com/watch?v=ACEQcUH0zwQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
