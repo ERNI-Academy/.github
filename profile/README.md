@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Challenging projects - Meet Raffaele, Java Architect](https://www.youtube.com/watch?v=Qs2W9nUo7MI)
+- [DevOps practice - Meet Alberto, Knowledge Director](https://www.youtube.com/watch?v=tlUNkRwCAeE)
 - [Automation framework for pentesters](https://www.youtube.com/watch?v=xG2DHHsz5Sk)
 - [ReplayCAS2022 - La Agilidad en una de las 100 tecnológicas más grandes del mundo](https://www.youtube.com/watch?v=-IBJ-rDUXTw)
 - [ERNI Spain Christmas dinner](https://www.youtube.com/watch?v=2FJTij-K8Ak)
-- [ReplayCAS2022 - Desescalando tu organización con OKRs](https://www.youtube.com/watch?v=bPId8wVnOe4)
-- [How healthcare market leaders are driving innovation](https://www.youtube.com/watch?v=iElmPKVHUuA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
