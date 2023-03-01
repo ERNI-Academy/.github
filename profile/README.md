@@ -29,11 +29,11 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
+- [Aprende a crear el clásico juego Space Invaders con Unity](https://www.eventbrite.es/e/registro-aprende-a-crear-el-clasico-juego-space-invaders-con-unity-568149369057)
 - [GeoML: How to build an AI app to raise awareness about road risk](https://www.eventbrite.es/e/geoml-how-to-build-an-ai-app-to-raise-awareness-about-road-risk-registration-566394901397)
 - [Introducción a Storybook](https://www.eventbrite.es/e/registro-introduccion-a-storybook-523716940467)
 - [Automation framework for pentesters Kick-off session](https://www.eventbrite.es/e/automation-framework-for-pentesters-kick-off-session-registration-478162566107)
 - [La Agilidad en una de las 100 tecnológicas más grandes del mundo](https://www.eventbrite.es/e/registro-la-agilidad-en-una-de-las-100-tecnologicas-mas-grandes-del-mundo-484281016557)
-- [Empoderar a los equipos, ¿es siempre bueno?](https://www.eventbrite.es/e/registro-empoderar-a-los-equipos-es-siempre-bueno-453858431787)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
