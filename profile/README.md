@@ -32,8 +32,8 @@ Also don't forget to check our next events ([remote and in-person](https://www.e
 - [SAFe la solución a tus males o la causa de tus futuros males](https://www.eventbrite.es/e/registro-safe-la-solucion-a-tus-males-o-la-causa-de-tus-futuros-males-570499809287)
 - [Aprende a crear el clásico juego Space Invaders con Unity](https://www.eventbrite.es/e/registro-aprende-a-crear-el-clasico-juego-space-invaders-con-unity-568149369057)
 - [GeoML: How to build an AI app to raise awareness about road risk](https://www.eventbrite.es/e/geoml-how-to-build-an-ai-app-to-raise-awareness-about-road-risk-registration-566394901397)
+- [Mujeres en STEM: Distintos caminos, misma pasión](https://www.eventbrite.es/e/registro-mujeres-en-stem-distintos-caminos-misma-pasion-574482491597)
 - [Introducción a Storybook](https://www.eventbrite.es/e/registro-introduccion-a-storybook-523716940467)
-- [Automation framework for pentesters Kick-off session](https://www.eventbrite.es/e/automation-framework-for-pentesters-kick-off-session-registration-478162566107)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
