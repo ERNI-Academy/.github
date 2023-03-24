@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Desplegando arquitecturas serverless mediante IaC](https://www.youtube.com/watch?v=m1XpF8uRtfg)
 - [Aprende a crear el clásico juego Space Invaders con Unity](https://www.youtube.com/watch?v=CRXFs2XyjWQ)
 - [GeoML: How to build an AI app to raise awareness about road risk](https://www.youtube.com/watch?v=JqdMjV1CxK0)
 - [Frontend Community last news! - Twitch session](https://www.youtube.com/watch?v=U_ZqCP2Fbgc)
 - [WiDxERNI - How to build a datalake from scratch](https://www.youtube.com/watch?v=vGg8kUCBdUI)
-- [Introducción a Storybook](https://www.youtube.com/watch?v=H3c7_ltkrlU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
