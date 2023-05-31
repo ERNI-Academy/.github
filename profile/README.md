@@ -29,11 +29,11 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
+- [Smart contracts to JavaScript: A journey through the decentralized realm](https://www.eventbrite.es/e/smart-contracts-to-javascript-a-journey-through-the-decentralized-realm-registration-646923524677)
 - [Gestión del cambio organizacional](https://www.eventbrite.es/e/registro-gestion-del-cambio-organizacional-631381778897)
 - [Desplegando arquitecturas serverless mediante IaC](https://www.eventbrite.es/e/registro-desplegando-arquitecturas-serverless-mediante-iac-589520300087)
 - [SAFe la solución a tus males o la causa de tus futuros males](https://www.eventbrite.es/e/registro-safe-la-solucion-a-tus-males-o-la-causa-de-tus-futuros-males-570499809287)
 - [Aprende a crear el clásico juego Space Invaders con Unity](https://www.eventbrite.es/e/registro-aprende-a-crear-el-clasico-juego-space-invaders-con-unity-568149369057)
-- [GeoML: How to build an AI app to raise awareness about road risk](https://www.eventbrite.es/e/geoml-how-to-build-an-ai-app-to-raise-awareness-about-road-risk-registration-566394901397)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
