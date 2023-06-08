@@ -30,10 +30,10 @@ Also don't forget to check our next events ([remote and in-person](https://www.e
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
 - [Smart contracts to JavaScript: A journey through the decentralized realm](https://www.eventbrite.es/e/smart-contracts-to-javascript-a-journey-through-the-decentralized-realm-registration-646923524677)
+- [¿Cómo podemos sacarle el máximo partido a la IA en organizaciones ágiles?](https://www.eventbrite.es/e/registro-como-podemos-sacarle-el-maximo-partido-a-la-ia-en-organizaciones-agiles-653928366347)
 - [Gestión del cambio organizacional](https://www.eventbrite.es/e/registro-gestion-del-cambio-organizacional-631381778897)
 - [Desplegando arquitecturas serverless mediante IaC](https://www.eventbrite.es/e/registro-desplegando-arquitecturas-serverless-mediante-iac-589520300087)
 - [SAFe la solución a tus males o la causa de tus futuros males](https://www.eventbrite.es/e/registro-safe-la-solucion-a-tus-males-o-la-causa-de-tus-futuros-males-570499809287)
-- [Aprende a crear el clásico juego Space Invaders con Unity](https://www.eventbrite.es/e/registro-aprende-a-crear-el-clasico-juego-space-invaders-con-unity-568149369057)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
