@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [¿Cómo podemos sacarle el máximo partido a la IA en organizaciones ágiles?](https://www.youtube.com/watch?v=XIxq-WpzveM)
 - [Gestión del cambio organizacional](https://www.youtube.com/watch?v=SGMDMoe-nqY)
 - [Boost product decisions leveraging OKRs, portfolio and capacity invested synergies](https://www.youtube.com/watch?v=_B0ms4b3E1s)
 - [SAFe la solución a tus males o la causa de tus futuros males](https://www.youtube.com/watch?v=rwF3aH0H8M0)
 - [Desplegando arquitecturas serverless mediante IaC](https://www.youtube.com/watch?v=m1XpF8uRtfg)
-- [Aprende a crear el clásico juego Space Invaders con Unity](https://www.youtube.com/watch?v=CRXFs2XyjWQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
