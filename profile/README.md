@@ -29,11 +29,11 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
+- [Construye tu ChatGPT Privado: Controla la IA con tus Propios Datos](https://www.eventbrite.es/e/registro-construye-tu-chatgpt-privado-controla-la-ia-con-tus-propios-datos-660409080337)
 - [Smart contracts to JavaScript: A journey through the decentralized realm](https://www.eventbrite.es/e/smart-contracts-to-javascript-a-journey-through-the-decentralized-realm-registration-646923524677)
 - [¿Cómo podemos sacarle el máximo partido a la IA en organizaciones ágiles?](https://www.eventbrite.es/e/registro-como-podemos-sacarle-el-maximo-partido-a-la-ia-en-organizaciones-agiles-653928366347)
 - [Gestión del cambio organizacional](https://www.eventbrite.es/e/registro-gestion-del-cambio-organizacional-631381778897)
 - [Desplegando arquitecturas serverless mediante IaC](https://www.eventbrite.es/e/registro-desplegando-arquitecturas-serverless-mediante-iac-589520300087)
-- [SAFe la solución a tus males o la causa de tus futuros males](https://www.eventbrite.es/e/registro-safe-la-solucion-a-tus-males-o-la-causa-de-tus-futuros-males-570499809287)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
