@@ -19,7 +19,7 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [The ERNIan&#39;s Journey](https://www.youtube.com/watch?v=0LhrSYTzUIY)
+- [The ERNIan&#39;s Journey](https://www.youtube.com/watch?v=xAl--Pm7CHg)
 - [Construye tu ChatGPT Privado: Controla la IA con tus propios datos](https://www.youtube.com/watch?v=b5VEFndrH2w)
 - [From smart contracts to JavaScript: A journey through the decentralized realm](https://www.youtube.com/watch?v=CpjTWt7WdfU)
 - [¿Cómo podemos sacarle el máximo partido a la IA en organizaciones ágiles?](https://www.youtube.com/watch?v=XIxq-WpzveM)
