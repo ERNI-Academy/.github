@@ -29,11 +29,11 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
+- [Cypress - Descubriendo un framework de pruebas moderno](https://www.eventbrite.es/e/registro-cypress-descubriendo-un-framework-de-pruebas-moderno-690914693447)
 - [¿Has asistido alguna vez al AOS? ¡Te explicamos nuestra experiencia!](https://www.eventbrite.es/e/registro-has-asistido-alguna-vez-al-aos-te-explicamos-nuestra-experiencia-664498913137)
 - [Construye tu ChatGPT Privado: Controla la IA con tus Propios Datos](https://www.eventbrite.es/e/registro-construye-tu-chatgpt-privado-controla-la-ia-con-tus-propios-datos-660409080337)
 - [Smart contracts to JavaScript: A journey through the decentralized realm](https://www.eventbrite.es/e/smart-contracts-to-javascript-a-journey-through-the-decentralized-realm-registration-646923524677)
 - [¿Cómo podemos sacarle el máximo partido a la IA en organizaciones ágiles?](https://www.eventbrite.es/e/registro-como-podemos-sacarle-el-maximo-partido-a-la-ia-en-organizaciones-agiles-653928366347)
-- [Gestión del cambio organizacional](https://www.eventbrite.es/e/registro-gestion-del-cambio-organizacional-631381778897)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
