@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Meet Rebeca: .NET Developer &amp; Technical Lead](https://www.youtube.com/watch?v=_3Z3pRER4DU)
+- [&quot;Perdona, ¿podrías repetir? No estaba escuchando.&quot; La importancia de la escucha activa](https://www.youtube.com/watch?v=LA0qSQ5HocQ)
 - [Primeros días como Scrum Master. Nuestra experiencia](https://www.youtube.com/watch?v=T4xJ0CPlwNs)
 - [Cypress - Descubriendo un framework de pruebas moderno](https://www.youtube.com/watch?v=THHyjme_prw)
 - [Summer Party 2023](https://www.youtube.com/watch?v=y8mAARM6rHQ)
-- [The ERNIan&#39;s Journey](https://www.youtube.com/watch?v=xAl--Pm7CHg)
-- [Construye tu ChatGPT Privado: Controla la IA con tus propios datos](https://www.youtube.com/watch?v=b5VEFndrH2w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
