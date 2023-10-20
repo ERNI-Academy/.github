@@ -30,7 +30,7 @@ Also don't forget to check our next events ([remote and in-person](https://www.e
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
 - [¿Puede la Inteligencia Artificial resolver la paradoja del pesticida?](https://www.eventbrite.es/e/registro-puede-la-inteligencia-artificial-resolver-la-paradoja-del-pesticida-740707735777)
-- [Dando forma al futuro con React y Next.JS](https://www.eventbrite.es/e/registro-dando-forma-al-futuro-con-react-y-nextjs-740890321897)
+- [Dando forma al futuro con React y Next.JS 13](https://www.eventbrite.es/e/registro-dando-forma-al-futuro-con-react-y-nextjs-13-740890321897)
 - [Autoorganización o anarquía, ¿cuál es la diferencia?](https://www.eventbrite.es/e/registro-autoorganizacion-o-anarquia-cual-es-la-diferencia-739435450337)
 - [Perdona, ¿podrías repetir? No estaba escuchando.](https://www.eventbrite.es/e/registro-perdona-podrias-repetir-no-estaba-escuchando-723376728267)
 - [Primeros días como Scrum Master: Nuestra Experiencia](https://www.eventbrite.es/e/registro-primeros-dias-como-scrum-master-nuestra-experiencia-712816923607)
