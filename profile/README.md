@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [¿Puede la Inteligencia Artificial resolver la paradoja del pesticida?](https://www.youtube.com/watch?v=mTsX18QJtGQ)
 - [Autoorganización o anarquía, ¿cuál es la diferencia?](https://www.youtube.com/watch?v=Alus7hgrams)
 - [Meet Raffaele: Java Architect](https://www.youtube.com/watch?v=Qf0yLa1bT8Q)
 - [Meet Axel: Frontend Expert](https://www.youtube.com/watch?v=rwcO8M752lQ)
 - [Meet Rebeca: .NET Developer &amp; Technical Lead](https://www.youtube.com/watch?v=_3Z3pRER4DU)
-- [&quot;Perdona, ¿podrías repetir? No estaba escuchando.&quot; La importancia de la escucha activa](https://www.youtube.com/watch?v=LA0qSQ5HocQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
