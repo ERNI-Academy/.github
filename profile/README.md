@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Crea tu propia librería de componentes en 7 pasos](https://www.youtube.com/watch?v=tVf73xUHlGA)
+- [Road to CAS 2023!](https://www.youtube.com/watch?v=69dvu9NYVUU)
 - [¿Puede la Inteligencia Artificial resolver la paradoja del pesticida?](https://www.youtube.com/watch?v=mTsX18QJtGQ)
 - [Autoorganización o anarquía, ¿cuál es la diferencia?](https://www.youtube.com/watch?v=Alus7hgrams)
 - [Meet Raffaele: Java Architect](https://www.youtube.com/watch?v=Qf0yLa1bT8Q)
-- [Meet Axel: Frontend Expert](https://www.youtube.com/watch?v=rwcO8M752lQ)
-- [Meet Rebeca: .NET Developer &amp; Technical Lead](https://www.youtube.com/watch?v=_3Z3pRER4DU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
