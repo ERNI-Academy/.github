@@ -29,11 +29,11 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
+- [CAS2023: Feedback para equipos de alto rendimiento](https://www.eventbrite.es/e/registro-cas2023-feedback-para-equipos-de-alto-rendimiento-792967456007)
 - [Descubre la Computación Espacial con Vision Pro](https://www.eventbrite.es/e/registro-descubre-la-computacion-espacial-con-vision-pro-768244388647)
 - [Road to CAS 2023!](https://www.eventbrite.es/e/registro-road-to-cas-2023-759665699557)
 - [¿Puede la Inteligencia Artificial resolver la paradoja del pesticida?](https://www.eventbrite.es/e/registro-puede-la-inteligencia-artificial-resolver-la-paradoja-del-pesticida-740707735777)
 - [Dando forma al futuro con React y Next.JS 13](https://www.eventbrite.es/e/registro-dando-forma-al-futuro-con-react-y-nextjs-13-740890321897)
-- [Autoorganización o anarquía, ¿cuál es la diferencia?](https://www.eventbrite.es/e/registro-autoorganizacion-o-anarquia-cual-es-la-diferencia-739435450337)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
