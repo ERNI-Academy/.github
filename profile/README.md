@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [CAS2023:Feedback para equipos de alto rendimiento](https://www.youtube.com/watch?v=JaufZM8yueE)
 - [ERNI Spain Christmas Dinner 2023](https://www.youtube.com/watch?v=o3X7cziiI_s)
 - [Cómo diseñar figuras 3D con ordenador y gafas VR](https://www.youtube.com/watch?v=8TSYBHsnkwI)
 - [Crea tu propia librería de componentes en 7 pasos](https://www.youtube.com/watch?v=tVf73xUHlGA)
 - [Road to CAS 2023!](https://www.youtube.com/watch?v=69dvu9NYVUU)
-- [¿Puede la Inteligencia Artificial resolver la paradoja del pesticida?](https://www.youtube.com/watch?v=mTsX18QJtGQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
