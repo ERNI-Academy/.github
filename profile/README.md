@@ -29,7 +29,7 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
-- [Mujeres en IT: Rompiendo barreras y creando cambios](https://www.eventbrite.es/e/registro-mujeres-en-it-rompiendo-barreras-y-creando-cambios-849319025067)
+- [Mujeres en IT: Experiencias, Desafíos y Perspectivas](https://www.eventbrite.es/e/registro-mujeres-en-it-experiencias-desafios-y-perspectivas-849319025067)
 - [Nuevo Annual State Of Agile Report, ¡lo comentamos!](https://www.eventbrite.es/e/registro-nuevo-annual-state-of-agile-report-lo-comentamos-818697134167)
 - [Building dynamic React forms](https://www.eventbrite.es/e/registro-building-dynamic-react-forms-799513013947)
 - [Descubre la Computación Espacial con Vision Pro](https://www.eventbrite.es/e/registro-descubre-la-computacion-espacial-con-vision-pro-795138559837)
