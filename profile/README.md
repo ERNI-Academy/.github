@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Nuevo Annual State of Agile report, ¡lo comentamos!](https://www.youtube.com/watch?v=l0iHZNBCSpc)
 - [Building dynamic React forms](https://www.youtube.com/watch?v=o6gn23ZpT7c)
 - [Descubre la Computación Espacial con Vision Pro](https://www.youtube.com/watch?v=47ELBCc0G40)
 - [CAS2023:Feedback para equipos de alto rendimiento](https://www.youtube.com/watch?v=JaufZM8yueE)
 - [ERNI Spain Christmas Dinner 2023](https://www.youtube.com/watch?v=o3X7cziiI_s)
-- [Cómo diseñar figuras 3D con ordenador y gafas VR](https://www.youtube.com/watch?v=8TSYBHsnkwI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
