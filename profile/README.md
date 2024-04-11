@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Desarrollo de un videojuego con IA en una Game Jam](https://www.youtube.com/watch?v=Ths3aHuZ2gU)
 - [Mujeres en IT: Experiencias, Desafíos y Perspectivas](https://www.youtube.com/watch?v=pZ_3aywztTQ)
 - [Introducción a InterSystems IRIS](https://www.youtube.com/watch?v=7HxNcDb3adg)
 - [Introduction to Rust](https://www.youtube.com/watch?v=Lv16vvUeVPc)
 - [Nuevo Annual State of Agile report, ¡lo comentamos!](https://www.youtube.com/watch?v=l0iHZNBCSpc)
-- [Building dynamic React forms](https://www.youtube.com/watch?v=o6gn23ZpT7c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
