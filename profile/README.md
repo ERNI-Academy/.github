@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Despliega Backstage en Azure con Terraform -  Parte 2/2](https://www.youtube.com/watch?v=2Mm-cCtycz0)
+- [Despliega Backstage en Azure con Terraform - Parte 1/2](https://www.youtube.com/watch?v=TTy6rduttoc)
 - [Planifica un proyecto embedded: De la idea a la realidad](https://www.youtube.com/watch?v=m9AkpdJlYUs)
 - [Introduction to Data Analysis with Tableau](https://www.youtube.com/watch?v=pG8Xgr_JDA4)
 - [Desarrollo de un videojuego con IA en una Game Jam](https://www.youtube.com/watch?v=Ths3aHuZ2gU)
-- [Mujeres en IT: Experiencias, Desafíos y Perspectivas](https://www.youtube.com/watch?v=pZ_3aywztTQ)
-- [Introducción a InterSystems IRIS](https://www.youtube.com/watch?v=7HxNcDb3adg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
