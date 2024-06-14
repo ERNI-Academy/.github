@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Destripando nuestro ERNI AIDA &lpar;AI Digital Assistant&rpar;](https://www.youtube.com/watch?v=MlvUIBMmbT4)
 - [#NeverStopGrowing: El viaje a la mejora continua](https://www.youtube.com/watch?v=a-ZwNkwJWBg)
 - [Better ask Brais](https://www.youtube.com/watch?v=EDBPL8qf-54)
 - [Despliega Backstage en Azure con Terraform -  Parte 2/2](https://www.youtube.com/watch?v=2Mm-cCtycz0)
 - [Despliega Backstage en Azure con Terraform - Parte 1/2](https://www.youtube.com/watch?v=TTy6rduttoc)
-- [Planifica un proyecto embedded: De la idea a la realidad](https://www.youtube.com/watch?v=m9AkpdJlYUs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
