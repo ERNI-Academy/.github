@@ -57,7 +57,7 @@ We are always hiring awesome people to [join our team](https://www.betterask.ern
 [![Twitter Follow](https://img.shields.io/twitter/follow/ERNI?style=social)](https://www.twitter.com/ERNI)
 [![Twitch Status](https://img.shields.io/twitch/status/erni_academy?label=ERNI%20Academy&style=social)](https://www.twitch.tv/erni_academy)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkdDcxjml85-Ydn7Dc577WQ?label=ERNI%20Academy&style=social)](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ)
-[![Linkedin](https://img.shields.io/badge/linkedin-31k-green?style=social&logo=Linkedin)](https://www.linkedin.com/company/erni)
+[![Linkedin](https://img.shields.io/badge/linkedin-52k-green?style=social&logo=Linkedin)](https://www.linkedin.com/company/erni)
 
 ---
 
