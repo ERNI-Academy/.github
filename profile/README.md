@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Introduction to Apache Kafka and Flink on Confluent - Data Engineering Pipelines](https://www.youtube.com/watch?v=YyQPabxXDqQ)
 - [Web Automation Testing, Entendiendo ScreenPlay pattern](https://www.youtube.com/watch?v=f4iQayfXlXY)
 - [Computer vision para detectar cáncer de piel en Kaggle](https://www.youtube.com/watch?v=IiVxOzE42-U)
 - [Summer Party 2024](https://www.youtube.com/watch?v=J5duRgZ_U-Q)
 - [Chatbot personalizado en Teams](https://www.youtube.com/watch?v=Kxs5OGqHlRQ)
-- [VisionOS - Desvelamos la magia que hay detrás de la Computación Espacial](https://www.youtube.com/watch?v=N0BFZ5liLWg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
