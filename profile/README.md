@@ -19,8 +19,8 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Propósito para el nuevo curso, ¡únete a TechSHEssions!](https://www.youtube.com/watch?v=-rURd0nIv3k)
 - [Cloud compliance made easy con Azure Quick Review](https://www.youtube.com/watch?v=GoZG7tcPvyE)
-- [Mujeres en acción con FemCoders](https://www.youtube.com/watch?v=cLsjxaIOXdA)
 - [Accessibility Testing, ¿está todo el mundo incluido?](https://www.youtube.com/watch?v=b0hOPqEiZdg)
 - [Introduction to Apache Kafka and Flink on Confluent - Data Engineering Pipelines](https://www.youtube.com/watch?v=YyQPabxXDqQ)
 - [Web Automation Testing, Entendiendo ScreenPlay pattern](https://www.youtube.com/watch?v=f4iQayfXlXY)
