@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Planifica proyectos y programa código más rápido con el soporte de la IA - Caso Práctico](https://www.youtube.com/watch?v=b1cGmLUo8Rc)
 - [Perfiles reinventados: Cuatro caminos hacia la tecnología](https://www.youtube.com/watch?v=FvWsWuknB84)
 - [Lo que nadie te contó sobre ser desarrollador](https://www.youtube.com/watch?v=p2QprA_XyKc)
 - [To be B.R.A.V.E. or not to be](https://www.youtube.com/watch?v=FR2r4rZ7euE)
 - [Introducción a Node JS para desarrolladores Frontend](https://www.youtube.com/watch?v=bQgC9b1C5R4)
-- [Mujeres en acción con FemCoders Club](https://www.youtube.com/watch?v=u9uaMiYpGQg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
