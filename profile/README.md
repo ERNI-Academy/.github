@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [title](https://www.youtube.com/watch?v=5suWXayGpqA)
 - [Sé más eficiente escribiendo User Stories con Refin:AIDA](https://www.youtube.com/watch?v=awSmVbFS0Is)
 - [Perfiles Reinventados - Cuatro caminos hacia la tecnología](https://www.youtube.com/watch?v=znCu49fV5jA)
 - [Intro to Python programming for Data, AI and Backend Development](https://www.youtube.com/watch?v=MDTyTrY0AJQ)
 - [Perfiles reinventados: Cuatro caminos hacia la tecnología](https://www.youtube.com/watch?v=FvWsWuknB84)
-- [ERNI en directo desde Helsinki: Junction Hackathon 2024](https://www.youtube.com/watch?v=hWZAFYeY4aM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
