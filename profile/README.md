@@ -19,8 +19,8 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Inteligencia Artificial: ¿El futuro del desarrollo o una amenaza inminente?](https://www.youtube.com/watch?v=OaZerulF1j4)
 - [Inteligencia Artificial: ¿El futuro del desarrollo o una amenaza inminente?](https://www.youtube.com/watch?v=uyaurmEx08s)
+- [Inteligencia Artificial: ¿El futuro del desarrollo o una amenaza inminente?](https://www.youtube.com/watch?v=OaZerulF1j4)
 - [Sé más eficiente escribiendo User Stories con Refin:AIDA](https://www.youtube.com/watch?v=awSmVbFS0Is)
 - [Perfiles Reinventados - Cuatro caminos hacia la tecnología](https://www.youtube.com/watch?v=znCu49fV5jA)
 - [Intro to Python programming for Data, AI and Backend Development](https://www.youtube.com/watch?v=MDTyTrY0AJQ)
