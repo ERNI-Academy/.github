@@ -19,8 +19,8 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Introduction to Three js   Creating 3D web experiences](https://www.youtube.com/watch?v=p_20oxYK3Lw)
 - [Introduction to Three.js: Creating 3D Web Experiences](https://www.youtube.com/watch?v=q3C8sLGLCMU)
+- [Introduction to Three js   Creating 3D web experiences](https://www.youtube.com/watch?v=p_20oxYK3Lw)
 - [Inteligencia Artificial: ¿El futuro del desarrollo o una amenaza inminente?](https://www.youtube.com/watch?v=uyaurmEx08s)
 - [Sé más eficiente escribiendo User Stories con Refin:AIDA](https://www.youtube.com/watch?v=awSmVbFS0Is)
 - [Perfiles Reinventados - Cuatro caminos hacia la tecnología](https://www.youtube.com/watch?v=znCu49fV5jA)
