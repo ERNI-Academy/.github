@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Databricks &amp; MLflow Demo MLOps for bike sharing predictions](https://www.youtube.com/watch?v=3RW_GbubYzk)
 - [Codemotion Madrid 2025](https://www.youtube.com/watch?v=SjGNT0ptT9Y)
 - [Introduction to Three.js: Creating 3D Web Experiences](https://www.youtube.com/watch?v=q3C8sLGLCMU)
 - [Introduction to Three.js  - Creating 3D web experiences](https://www.youtube.com/watch?v=p_20oxYK3Lw)
 - [Inteligencia Artificial: ¿El futuro del desarrollo o una amenaza inminente?](https://www.youtube.com/watch?v=uyaurmEx08s)
-- [Sé más eficiente escribiendo User Stories con Refin:AIDA](https://www.youtube.com/watch?v=awSmVbFS0Is)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
