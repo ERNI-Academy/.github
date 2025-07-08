@@ -29,11 +29,11 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
-- [Introducción a InterSystems IRIS](https://www.eventbrite.es/e/registro-introduccion-a-intersystems-iris-861421453757)
-- [Introduction to Rust](https://www.eventbrite.es/e/introduction-to-rust-registration-852832975387)
-- [Mujeres en IT: Experiencias, Desafíos y Perspectivas](https://www.eventbrite.es/e/registro-mujeres-en-it-experiencias-desafios-y-perspectivas-849319025067)
-- [Nuevo Annual State Of Agile Report, ¡lo comentamos!](https://www.eventbrite.es/e/registro-nuevo-annual-state-of-agile-report-lo-comentamos-818697134167)
-- [Building dynamic React forms](https://www.eventbrite.es/e/registro-building-dynamic-react-forms-799513013947)
+- [Node Streams "What, why and how"](https://www.eventbrite.ch/e/registro-node-streams-what-why-and-how-1437688798899)
+- [Cyber Resilience in der Industrie – was der CRA wirklich bedeutet](https://www.eventbrite.ch/e/cyber-resilience-in-der-industrie-was-der-cra-wirklich-bedeutet-tickets-1336634833769)
+- [Inteligencia Artificial: ¿El futuro del desarrollo o una amenaza inminente?](https://www.eventbrite.ch/e/registro-inteligencia-artificial-el-futuro-del-desarrollo-o-una-amenaza-inminente-1323478863909)
+- [Data & AI in 2025: What You Need to Know Now](https://www.eventbrite.ch/e/data-ai-in-2025-what-you-need-to-know-now-tickets-1244824456459)
+- [API Testing in Action: Interaktive Demonstration mit einem Roboterarm](https://www.eventbrite.ch/e/api-testing-in-action-interaktive-demonstration-mit-einem-roboterarm-tickets-1097095294559)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
