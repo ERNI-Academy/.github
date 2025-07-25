@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [¿Cuándo desarrollaremos en la mitad de tiempo? La pregunta que todo CEO le hace a su CTO](https://www.youtube.com/watch?v=Dq0E70n-sFc)
+- [Hack &amp; Patch: OWASP en Combate - Codemotion 2025](https://www.youtube.com/watch?v=txlYlOsemSQ)
 - [Como programar agentes de IA con LanGraph y LangChain](https://www.youtube.com/watch?v=XtYr5X-egSc)
 - [Node streams: what, why and how?](https://www.youtube.com/watch?v=Z5BhaS-wo6I)
 - [Databricks &amp; MLflow Demo MLOps for bike sharing predictions](https://www.youtube.com/watch?v=3RW_GbubYzk)
-- [Codemotion Madrid 2025](https://www.youtube.com/watch?v=SjGNT0ptT9Y)
-- [Introduction to Three.js: Creating 3D Web Experiences](https://www.youtube.com/watch?v=q3C8sLGLCMU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
