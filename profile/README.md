@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Meet Enric - Data &amp; AI Principal](https://www.youtube.com/watch?v=HcnuhG59xk4)
 - [Meet Samuel - Expert FullStack Developer](https://www.youtube.com/watch?v=IWVosmCWBX8)
 - [Meet Antonio - QA Technical Lead](https://www.youtube.com/watch?v=fIT_LTzd75w)
 - [¿Cuándo desarrollaremos en la mitad de tiempo? La pregunta que todo CEO le hace a su CTO](https://www.youtube.com/watch?v=Dq0E70n-sFc)
 - [Hack &amp; Patch: OWASP en Combate - Codemotion 2025](https://www.youtube.com/watch?v=txlYlOsemSQ)
-- [Como programar agentes de IA con LanGraph y LangChain](https://www.youtube.com/watch?v=XtYr5X-egSc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
