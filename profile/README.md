@@ -29,11 +29,11 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
+- [AI-native Software-Engineering - Hohe Qualität mit AI-Speed](https://www.eventbrite.ch/e/ai-native-software-engineering-hohe-qualitat-mit-ai-speed-tickets-1615611420249)
 - [Alumni Stammtisch ERNI & SEI](https://www.eventbrite.ch/e/alumni-stammtisch-erni-sei-tickets-1526635350429)
 - [Node Streams "What, why and how"](https://www.eventbrite.ch/e/registro-node-streams-what-why-and-how-1437688798899)
 - [Cyber Resilience in der Industrie – was der CRA wirklich bedeutet](https://www.eventbrite.ch/e/cyber-resilience-in-der-industrie-was-der-cra-wirklich-bedeutet-tickets-1336634833769)
 - [Inteligencia Artificial: ¿El futuro del desarrollo o una amenaza inminente?](https://www.eventbrite.ch/e/registro-inteligencia-artificial-el-futuro-del-desarrollo-o-una-amenaza-inminente-1323478863909)
-- [Data & AI in 2025: What You Need to Know Now](https://www.eventbrite.ch/e/data-ai-in-2025-what-you-need-to-know-now-tickets-1244824456459)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
