@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Cloud Native Madrid — Spring AI &amp; k6 en acción](https://www.youtube.com/watch?v=udYYusANHnA)
 - [Transforming Data: Integrating DBT + PostgreSQL](https://www.youtube.com/watch?v=fo70yzdE8M4)
 - [Gala Superarte Madrid](https://www.youtube.com/watch?v=6F7CQszw2Og)
 - [Codemotion 2025 ERNI](https://www.youtube.com/watch?v=pNh3RXKItQE)
 - [Meet Enric - Data &amp; AI Principal](https://www.youtube.com/watch?v=HcnuhG59xk4)
-- [Meet Samuel - Expert FullStack Developer](https://www.youtube.com/watch?v=IWVosmCWBX8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
