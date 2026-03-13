@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [ERNI at MWC and Talent Arena 2026](https://www.youtube.com/watch?v=sOTFkjw_4MM)
 - [Software Crafters Barcelona Talks @ ERNI](https://www.youtube.com/watch?v=P6KXApnIChA)
 - [ERNI &amp; Cloud Native Barcelona - Spring AI and OpenTofu](https://www.youtube.com/watch?v=tmXmPBVBexs)
 - [Microfrontends en JavaScript: El fin de las arquitecturas monolíticas](https://www.youtube.com/watch?v=XS-o5lN-GnA)
 - [Cloud Native Madrid — Spring AI &amp; k6 en acción](https://www.youtube.com/watch?v=udYYusANHnA)
-- [Transforming Data: Integrating DBT + PostgreSQL](https://www.youtube.com/watch?v=fo70yzdE8M4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
