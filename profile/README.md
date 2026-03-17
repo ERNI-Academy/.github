@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Building complex code-defined AI agents that execute robotic actions](https://www.youtube.com/watch?v=1jn7tGwj0M0)
 - [A Machine Learning Model to predict Diabetes](https://www.youtube.com/watch?v=c3zf-Jqs7qI)
 - [ERNI at MWC and Talent Arena 2026](https://www.youtube.com/watch?v=sOTFkjw_4MM)
 - [Software Crafters Barcelona Talks @ ERNI](https://www.youtube.com/watch?v=P6KXApnIChA)
 - [ERNI &amp; Cloud Native Barcelona - Spring AI and OpenTofu](https://www.youtube.com/watch?v=tmXmPBVBexs)
-- [Microfrontends en JavaScript: El fin de las arquitecturas monolíticas](https://www.youtube.com/watch?v=XS-o5lN-GnA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
