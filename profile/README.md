@@ -30,10 +30,10 @@ Also don't forget to check our next events ([remote and in-person](https://www.e
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
 - [IA aplicada al mundo real: ML en salud y desarrollo con agentes y Spec-kit](https://www.eventbrite.es/e/ia-aplicada-al-mundo-real-ml-en-salud-y-desarrollo-con-agentes-y-spec-kit-tickets-1989297549521)
+- [Espías: Dark Web y escuchas tras el cristal](https://www.eventbrite.es/e/espias-dark-web-y-escuchas-tras-el-cristal-tickets-1989822248911)
 - [El lado invisible de tus datos: Lo que no sabes que saben](https://www.eventbrite.es/e/entradas-el-lado-invisible-de-tus-datos-lo-que-no-sabes-que-saben-1986517586577)
 - [AI-native Software-Engineering - Hohe Qualität mit AI-Speed](https://www.eventbrite.es/e/ai-native-software-engineering-hohe-qualitat-mit-ai-speed-tickets-1615611420249)
 - [Alumni Stammtisch ERNI & SEI](https://www.eventbrite.es/e/alumni-stammtisch-erni-sei-tickets-1526635350429)
-- [Node Streams "What, why and how"](https://www.eventbrite.es/e/registro-node-streams-what-why-and-how-1437688798899)
 <!-- EVENTBRITE-EVENTS-LIST:END -->
 
 ## 💡 Tips for newcomers
