@@ -19,11 +19,11 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Introducción al Machine Learning en salud: predicción de bacterias multirresistentes](https://www.youtube.com/watch?v=OhtUFd37who)
+- [Spec-Kit: de &quot;vibe coding&quot; a Agentic Engineering](https://www.youtube.com/watch?v=XzHyhbW7uDc)
 - [IA aplicada al mundo real: ML en salud y desarrollo con agentes y Spec-kit](https://www.youtube.com/watch?v=imScbos0ugw)
 - [How to Stop an Epidemic using the Atomica Package](https://www.youtube.com/watch?v=WCEvNS1T7TM)
 - [From Scripts to Systems: Scaling your Python analysis with Apache Airflow](https://www.youtube.com/watch?v=3WqjBQGq440)
-- [Python for Airflow and Epidemic simulation - ERNI x PyBcn Meetup](https://www.youtube.com/watch?v=M60xu7zWyKI)
-- [Devops BCN - ERNI Meetup](https://www.youtube.com/watch?v=jAFK5DyKssM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
