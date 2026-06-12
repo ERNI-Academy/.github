@@ -19,7 +19,7 @@ We know that sometimes code doesn't speak for itself, so we try to do [Twitch se
 Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ/featured) and latest videos:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Male unless otherwise indicated: gender bias in clinical data and its impact on women&#39;s health](https://www.youtube.com/watch?v=53y-qR4t8jQ)
+- [Masculino por defecto: sesgo de género en los datos clínicos y su impacto en la salud de las mujeres](https://www.youtube.com/watch?v=53y-qR4t8jQ)
 - [Introducción al Machine Learning en salud: predicción de bacterias multirresistentes](https://www.youtube.com/watch?v=OhtUFd37who)
 - [Spec-Kit: de &quot;vibe coding&quot; a Agentic Engineering](https://www.youtube.com/watch?v=XzHyhbW7uDc)
 - [IA aplicada al mundo real: ML en salud y desarrollo con agentes y Spec-kit](https://www.youtube.com/watch?v=imScbos0ugw)
