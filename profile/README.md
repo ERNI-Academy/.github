@@ -29,7 +29,7 @@ Check out our [Youtube channel](https://www.youtube.com/channel/UCkdDcxjml85-Ydn
 Also don't forget to check our next events ([remote and in-person](https://www.eventbrite.es/o/erni-30130841744)):
 
 <!-- EVENTBRITE-EVENTS-LIST:START -->
-- [Webinar: Memory-safe by design: Rust as the successor to C/C++ in medtech](https://www.eventbrite.es/e/webinar-memory-safe-by-design-rust-as-the-successor-to-cc-in-medtech-tickets-2003651953931)
+- [Memory-safe by design: How Rust strengthens security in medtech](https://www.eventbrite.es/e/memory-safe-by-design-how-rust-strengthens-security-in-medtech-tickets-2003651953931)
 - [IA aplicada al mundo real: ML en salud y desarrollo con agentes y Spec-kit](https://www.eventbrite.es/e/ia-aplicada-al-mundo-real-ml-en-salud-y-desarrollo-con-agentes-y-spec-kit-tickets-1989297549521)
 - [Espías: Dark Web y escuchas tras el cristal](https://www.eventbrite.es/e/espias-dark-web-y-escuchas-tras-el-cristal-tickets-1989822248911)
 - [El lado invisible de tus datos: Lo que no sabes que saben](https://www.eventbrite.es/e/entradas-el-lado-invisible-de-tus-datos-lo-que-no-sabes-que-saben-1986517586577)
