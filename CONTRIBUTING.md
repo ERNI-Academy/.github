@@ -63,52 +63,9 @@ Please, pay attention to the new repository name and follow this simple schema:
 
 Whether you want to contribute to your new repository or you want to update ERNI awesome resource list the process is the same:
 
-1. [**Fork the repository**][fork] to your personal Github. Forking is basically an easy way to make a duplicate of the repository to your own account.
-2. [**Clone**][clone] the project to your own machine.
-
-    ```sh
-    # Clone your fork of the repo into the current directory
-    git clone https://github.com/<your-username>/<repo-name>
-    # Navigate to the newly cloned directory
-    cd <repo-name>
-    # Assign the original repo to a remote called "upstream"
-    git remote add upstream https://github.com/<upsteam-owner>/<repo-name>
-    ```
-
-3. If you cloned a while ago, get the **latest changes** from upstream.
-
-    ```sh
-    git checkout <dev-branch>
-    git pull upstream <dev-branch>
-    ```
-
-4. Create a new **topic branch** (off the main project development branch) to contain your feature, change, or fix.
-
-    ```sh
-    git checkout -b <topic-branch-name>
-    ```
-
-5. **Commit** changes to your own branch.
-
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-
-6. **Locally merge** (or rebase) the upstream development branch into your topic branch.
-
-    ```sh
-    git pull [--rebase] upstream <dev-branch>
-    ```
-
-7. [**Push**][push] your topic branch up to your fork.
-
-    ```sh
-    git push origin <topic-branch-name>
-    ```
-
-8. Open a [**Pull Request**][pull] with a clear title and description so that we can review your changes.
-
-Thanks for your interest in contributing to this repository.
+- Create a PR with your changes
+- Get someone to review it
+- Get it merged
 
 ## Code of Conduct
 
